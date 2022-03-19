@@ -36,7 +36,7 @@ A USB ESD protection diode array IC is used to prevent damage to the microcontro
 ## Prototyping
 The shift register and STM32 microcontroller were each installed onto their own breakout boards. A 5V-3.3V regulator was connected to the breadboard's power rail. Decoupling capacitors were installed directly on the power rail. Jumpers were connected as necessary - and thus the Alarm Clock came alive:
 
-![test](https://i.imgur.com/TljMB7e.gif)
+![Tim White - Alarm Clock Breadboarding video](https://raw.githubusercontent.com/twwhite/hw-demo-alarm-clock/main/photos/2022-02-07_18-57-08.gif)
 
 ## Schematic Capture
 Schematic capture using  EasyEDA:
