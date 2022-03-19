@@ -4,6 +4,10 @@ Hardware Development Demonstration - STM32 Powered Alarm Clock
 ## Introduction
 The purpose of this project was to demonstrate hardware development capabilities using an STMicroelectronics STM32 ARM powered microcontroller.
 
+PCB Layout (3D render) screen capture
+![Tim White - Alarm Clock PCB Layout 3D](https://i.imgur.com/0fxB9ug.png "Tim White - Alarm Clock PCB Layout 3D")
+
+
 ### Functional Overview
 The Alarm Clock gadget takes user inputs of time and alarming-time and outputs these values through an LCD character display and buzzer.
 
@@ -57,8 +61,6 @@ Generally, the order of operations was to place:
 PCB Layout screen capture
 ![Tim White - Alarm Clock PCB Layout 2D](https://i.imgur.com/XjeU2HU.png "Tim White - Alarm Clock PCB Layout 2D")
 
-PCB Layout (3D render) screen capture
-![Tim White - Alarm Clock PCB Layout 3D](https://i.imgur.com/0fxB9ug.png "Tim White - Alarm Clock PCB Layout 3D")
 
 ## Production
 The Gerber files, BOM, and pick-and-place files were generated through EasyEDA, uploaded to JLCPCB, and any part orientations were corrected in JLCPCB's online board viewer.
